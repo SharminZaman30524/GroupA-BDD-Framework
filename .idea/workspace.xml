@@ -5,7 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="419f9068-d035-4eb2-a494-eccdd61f10b1" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/EbayPages/EbayHomepage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/EbayPages/EbayHomepage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/EbayPages/InventoryPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/EbayPages/InventoryPage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/EbayStepDefinitions/EbayStepDefinitions.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/EbayStepDefinitions/EbayStepDefinitions.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ProgressivePages/CareersPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ProgressivePages/CareersPage.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,7 +41,10 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "last_opened_file_path": "C:/Users/Sharmin Zaman/IdeaProjects/GroupA_BDD_Framework/src/main/java",
+    "last_opened_file_path": "C:/Users/celin/GroupA-BDD-Framework/GroupA-BDD-Framework",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
     "settings.editor.selected.configurable": "reference.settingsdialog.IDE.editor.colors"
   }
 }]]></component>

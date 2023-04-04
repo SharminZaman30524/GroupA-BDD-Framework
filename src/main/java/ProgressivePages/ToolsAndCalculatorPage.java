@@ -1,12 +1,12 @@
 package ProgressivePages;
 
-import base.CommonAPI;
+import common.WebAPI;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.support.FindBy;
 import org.openqa.selenium.support.PageFactory;
 
-public class ToolsAndCalculatorPage extends CommonAPI {
+public class ToolsAndCalculatorPage extends WebAPI {
 
     @FindBy(xpath = "//a[@id='resources']")
     public WebElement resourcesButton;

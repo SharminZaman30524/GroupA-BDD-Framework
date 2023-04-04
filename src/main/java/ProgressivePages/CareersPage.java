@@ -1,6 +1,6 @@
 package ProgressivePages;
 
-import base.CommonAPI;
+import common.WebAPI;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.support.FindBy;
@@ -10,7 +10,7 @@ import java.util.ArrayList;
 import java.util.LinkedList;
 import java.util.List;
 
-public class CareersPage extends CommonAPI {
+public class CareersPage extends WebAPI {
 
     @FindBy(xpath = "//a[@href='/careers/']")
     public WebElement careersButton;

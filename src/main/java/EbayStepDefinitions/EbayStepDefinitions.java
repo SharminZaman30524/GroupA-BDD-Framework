@@ -1,6 +1,7 @@
 package EbayStepDefinitions;
 
 import EbayPages.EbayHomepage;
+import common.WebAPI;
 import io.cucumber.java.After;
 import io.cucumber.java.Before;
 import io.cucumber.java.en.*;
