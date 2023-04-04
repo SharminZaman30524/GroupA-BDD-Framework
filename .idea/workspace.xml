@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="419f9068-d035-4eb2-a494-eccdd61f10b1" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Driver/Mac/ChromeDriver/chromedriver" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Driver/Mac/GeckoDriver/geckodriver" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Driver/Windows/ChromeDriver/chromedriver.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Driver/Windows/EdgeDriver/msedgedriver.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Driver/Windows/GeckoDriver/geckodriver.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/DeltaFeature/Delta.feature" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/DeltaFeature/EbayInventoryFeature.feature" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/EbayFeature/EbayInventoryFeature.feature" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/EbayPages/EbayHomepage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/EbayPages/InventoryPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/EbayStepDefinitions/EbayStepDefinitions.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ProgressiveFeature/EbayInventoryFeature.feature" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/common/WebAPI.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/DeltaTestRunner/DeltaRunner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/EbayTestRunner/EbayRunner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/ProgressiveTestRunner/ProgressiveRunner.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2NpvUGpOWW2df38FsTXdpHns8qb" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "last_opened_file_path": "C:/Users/Sharmin Zaman/IdeaProjects/GroupA_BDD_Framework/src/main/java",
+    "settings.editor.selected.configurable": "reference.settingsdialog.IDE.editor.colors"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Sharmin Zaman\IdeaProjects\GroupA_BDD_Framework\src\main\java" />
+      <recent name="C:\Users\Sharmin Zaman\IdeaProjects\GroupA_BDD_Framework" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="common" />
+      <recent name="EbayStepDefinitions" />
+      <recent name="EbayPages" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="EbayRunner" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="GroupA_BDD_Framework" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="EbayTestRunner.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="EbayTestRunner" />
+      <option name="MAIN_CLASS_NAME" value="EbayTestRunner.EbayRunner" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.EbayRunner" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="419f9068-d035-4eb2-a494-eccdd61f10b1" name="Changes" comment="" />
+      <created>1680373853620</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1680373853620</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
